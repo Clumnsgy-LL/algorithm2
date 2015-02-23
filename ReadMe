@@ -1,0 +1,29 @@
+This assignment is completed by Yanan Liang(hellenliang0605@gmail.com)
+
+The zip contains Seq.cpp Seq.h Driver.cpp makefile and ReadMe
+
+
+--------------------------------------------------------------
+Description for this algorithm:
+
+1. Sort the processing time of the jobs in decreasing order
+2. Filed up m machines with the first m jobs.
+3. For each new job(m+1 to n), add it into the machine which has the smallest processing time(Min), and then update the total processing time of each machine and find out the new Min
+4. keep doing step3 until reach the last job (n)
+
+
+--------------------------------------------------------------
+Testing Instruction:
+
+
+in terminal:
+>make
+>./Seq.exe
+
+
+It will print out the result.
+
+--------------------------------------------------------------
+Thanks for reading!
+
+

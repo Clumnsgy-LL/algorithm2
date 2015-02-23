@@ -1,0 +1,11 @@
+The makespan is: 16
+t=2 is in machine: 1
+t=2 is in machine: 2
+t=2 is in machine: 3
+t=3 is in machine: 1
+t=6 is in machine: 2
+t=14 is in machine: 3
+machine: 1 load time is: 5
+machine: 2 load time is: 8
+machine: 3 load time is: 16
+
